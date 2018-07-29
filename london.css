@@ -1,0 +1,12 @@
+.img-fluid{
+    width: 100%;
+}
+.picture{
+    position: relative;
+}
+.text-center{
+    position:absolute;
+    top:50%;   
+    left:0px;
+    color:white;
+}
